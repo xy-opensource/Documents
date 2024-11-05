@@ -1,36 +1,16 @@
-# Documents
+### 組織介紹
+提供實用好用的開源軟體和工具，幫助大家提高效率。
 
-#### Description
-组织文档仓库
+### 如何加入
+請寄申請郵件至 yuyangit.0515@qq.com
 
-#### Software Architecture
-Software architecture description
+### 捐助
+如果您覺得我們的開源軟體對你有幫助，請掃下方二維碼打賞我們一杯咖啡。
 
-#### Installation
+![Pay-Total](./images/Pay-Total.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 聯繫
 
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+網址: [https://gitee.com/xy-opensource](https://gitee.com/xy-opensource)
+微博: yuyangwb
+信箱: yuyangit.0515@qq.com
