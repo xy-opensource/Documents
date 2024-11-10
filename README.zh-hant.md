@@ -1,19 +1,22 @@
-### Organization Introduction
 
-Provide practical and easy-to-use open source software and tools to help everyone improve efficiency.
+- [简体中文](https://gitee.com/xy-opensource/documents/blob/main/README.md)
+- [繁體中文](https://gitee.com/xy-opensource/documents/blob/main/README.zh-hant.md)
+- [English](https://gitee.com/xy-opensource/documents/blob/main/README.en.md)
 
-### How to join
 
-Please send an application email to yuyangit.0515@qq.com
+### 組織介紹
+提供實用好用的開源軟體和工具，幫助大家提高效率。
 
-### Donation
+### 如何加入
+請寄申請郵件至 yuyangit.0515@qq.com
 
-If you think our open source software is helpful to you, please scan the QR code below to reward us with a cup of coffee.
+### 捐助
+如果您覺得我們的開源軟體對你有幫助，請掃下方二維碼打賞我們一杯咖啡。
 
-![Pay-Total](./images/Pay-Total.png)
+![Pay-Total](https://gitee.com/xy-opensource/documents/raw/main/images/Pay-Total.png)
 
-### Contact
+### 聯繫
 
-Website: [https://gitee.com/xy-opensource](https://gitee.com/xy-opensource)
-Weibo: yuyangwb
-Email: yuyangit.0515@qq.com
+網址: [https://gitee.com/xy-opensource](https://gitee.com/xy-opensource)
+微博: yuyangwb
+信箱: yuyangit.0515@qq.com
