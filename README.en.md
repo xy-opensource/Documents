@@ -1,5 +1,6 @@
 
-- [简体中文](./README.md) ｜ [繁體中文](./README.zh-hant.md) ｜[English](./README.en.md)
+| [简体中文](./README.md)         | [繁體中文](./README.zh-hant.md)        |                      [English](./README.en.md)          |
+| ----------- | -------------|---------------------------------------|
 
 ### Organization introduction
 Provide practical and easy-to-use open-source software and tools to help everyone improve their efficiency.
