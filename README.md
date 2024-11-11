@@ -1,17 +1,15 @@
 
-- [简体中文](./README.md)
-- [繁體中文](./README.zh-hant.md)
-- [English](./README.en.md)
+- [简体中文](./README.md) ｜ [繁體中文](./README.zh-hant.md) ｜[English](./README.en.md)
 
 ### 组织介绍
 提供实用好用的开源软件和工具，帮助大家提高效率。
 
 ### 项目分类
+---
 
 ##### 1. xy-base
-希洋开源基础库，包含一些基础的类库、工具类、配置文件等。
 
----
+希洋开源基础库，包含一些基础的类库、工具类、配置文件等。
 
 | 库名         | 说明         |                      仓库地址          |
 | ----------- | -------------|---------------------------------------|
@@ -30,11 +28,10 @@
 | `xy_pydev` | python模块开发工具 | [Gitee](https://gitee.com/xy-opensource/xy_pydev.git) / [GitCode](https://gitcode.com/xy-opensource/xy_pydev.git) / [Github](https://github.com/xy-base/xy_pydev.git) |
 | `xy_opensource_env` | 希洋开源运行环境 | [Gitee](https://gitee.com/xy-opensource/xy_opensource_dev.git) / [GitCode](https://gitcode.com/xy-opensource/xy_opensource_dev.git) / [Github](https://github.com/xy-base/xy_opensource_dev.git) |
 
+---
 
 ##### 2. xy-web-service
-> 希洋开源Web服务，包含一些基础的Web服务
-
----
+希洋开源Web服务，包含一些基础的Web服务
 
 | 库名         | 说明         |                      仓库地址          |
 | ----------- | -------------|---------------------------------------|
@@ -48,11 +45,11 @@
 | `xy_request_handler_api` | tornado请求基类封装Api |  [Gitee](https://gitee.com/xy-opensource/xy_request_handler_api.git) / [GitCode](https://gitcode.com/xy-opensource/xy_request_handler_api.git) / [Github](https://github.com/xy-web-service/xy_request_handler_api.git) |
 | `xy_request_handler__feedback` | 反馈业务请求模块 |  [Gitee](https://gitee.com/xy-opensource/xy_request_handler__feedback.git) / [GitCode](https://gitcode.com/xy-opensource/xy_request_handler__feedback.git) / [Github](https://github.com/xy-web-service/xy_request_handler__feedback.git) |
 
+---
 
 ##### 3. xy-django-app
-> 希洋开源Web服务的Django数据模型
+希洋开源Web服务的Django数据模型
 
----
 
 | 库名         | 说明         |                      仓库地址          |
 | ----------- | -------------|---------------------------------------|
@@ -63,24 +60,29 @@
 | `xy_django_app_api_auth` | 接口加密模型 |  [Gitee](https://gitee.com/xy-opensource/xy_django_app_api_auth.git) / [GitCode](https://gitcode.com/xy-opensource/xy_django_app_api_auth.git) / [Github](https://github.com/xy-django-app/xy_django_app_api_auth.git) |
 | `xy_django_app_feedback` | 反馈模型 |  [Gitee](https://gitee.com/xy-opensource/xy_django_app_feedback.git) / [GitCode](https://gitcode.com/xy-opensource/xy_django_app_feedback.git) / [Github](https://github.com/xy-django-app/xy_django_app_feedback.git) |
 
-##### 4. xy-cross-tools
-> 希洋开源工具，包含一些工具类、工具类配置文件等。
-
 ---
+
+##### 4. xy-cross-tools
+希洋开源工具，包含一些工具类、工具类配置文件等。
 
 | 库名         | 说明         |                      仓库地址          |
 | ----------- | -------------|---------------------------------------|
 | `xy_frp` | Frp工具 |  [Gitee](https://gitee.com/xy-opensource/xy_frp.git) / [GitCode](https://gitcode.com/xy-opensource/xy_frp.git) / [Github](https://github.com/xy-cross-tools/xy_frp.git) |
 | `xy_systemd` | 定制systemd工具 |  [Gitee](https://gitee.com/xy-opensource/xy_systemd.git) / [GitCode](https://gitcode.com/xy-opensource/xy_systemd.git) / [Github](https://github.com/xy-cross-tools/xy_systemd.git) |
 
+---
 
 ### 如何加入
 请发送申请邮件至 yuyangit.0515@qq.com
+
+---
 
 ### 捐助
 如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。  
 
 ![Pay-Total](./images/Pay-Total.png)
+
+---
 
 ### 联系
 

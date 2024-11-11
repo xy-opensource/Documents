@@ -1,17 +1,14 @@
 
-- [简体中文](./README.md)
-- [繁體中文](./README.zh-hant.md)
-- [English](./README.en.md)
+- [简体中文](./README.md) ｜ [繁體中文](./README.zh-hant.md) ｜[English](./README.en.md)
 
 ### Organization introduction
 Provide practical and easy-to-use open-source software and tools to help everyone improve their efficiency.
 
 ### Project classification
+---
 
 ##### 1. xy-base
 xy open source base library, including some basic class libraries, tool classes, configuration files, etc.
-
----
 
 | Library Name         | Description         |                      Repositories          |
 | ----------- | -------------|---------------------------------------|
@@ -30,11 +27,10 @@ xy open source base library, including some basic class libraries, tool classes,
 | `xy_pydev` | Python Module Power Builder | [Gitee](https://gitee.com/xy-opensource/xy_pydev.git) / [GitCode](https://gitcode.com/xy-opensource/xy_pydev.git) / [Github](https://github.com/xy-base/xy_pydev.git) |
 | `xy_opensource_env` | xy Open Source Operating Environment | [Gitee](https://gitee.com/xy-opensource/xy_opensource_dev.git) / [GitCode](https://gitcode.com/xy-opensource/xy_opensource_dev.git) / [Github](https://github.com/xy-base/xy_opensource_dev.git) |
 
+---
 
 ##### 2. xy-web-service
 xy open-source web services, including some basic web services
-
----
 
 | Library Name         | Description         |                      Repositories          |
 | ----------- | -------------|---------------------------------------|
@@ -48,11 +44,11 @@ xy open-source web services, including some basic web services
 | `xy_request_handler_api` | Tornado Request Base Class Encapsulation API |  [Gitee](https://gitee.com/xy-opensource/xy_request_handler_api.git) / [GitCode](https://gitcode.com/xy-opensource/xy_request_handler_api.git) / [Github](https://github.com/xy-web-service/xy_request_handler_api.git) |
 | `xy_request_handler__feedback` | Feedback service request module |  [Gitee](https://gitee.com/xy-opensource/xy_request_handler__feedback.git) / [GitCode](https://gitcode.com/xy-opensource/xy_request_handler__feedback.git) / [Github](https://github.com/xy-web-service/xy_request_handler__feedback.git) |
 
+---
 
 ##### 3. xy-django-app
 Django Data Model for xy Open Source Web Services
 
----
 
 | Library Name         | Description         |                      Repositories          |
 | ----------- | -------------|---------------------------------------|
@@ -63,24 +59,29 @@ Django Data Model for xy Open Source Web Services
 | `xy_django_app_api_auth` | Api Auth Model |  [Gitee](https://gitee.com/xy-opensource/xy_django_app_api_auth.git) / [GitCode](https://gitcode.com/xy-opensource/xy_django_app_api_auth.git) / [Github](https://github.com/xy-django-app/xy_django_app_api_auth.git) |
 | `xy_django_app_feedback` | Feedback Model |  [Gitee](https://gitee.com/xy-opensource/xy_django_app_feedback.git) / [GitCode](https://gitcode.com/xy-opensource/xy_django_app_feedback.git) / [Github](https://github.com/xy-django-app/xy_django_app_feedback.git) |
 
+---
+
 ##### 4. xy-cross-tools
 xy open-source tools, including some tool classes, tool class configuration files, etc.
-
----
 
 | Library Name         | Description         |                      Repositories          |
 | ----------- | -------------|---------------------------------------|
 | `xy_frp` | Frp Tools |  [Gitee](https://gitee.com/xy-opensource/xy_frp.git) / [GitCode](https://gitcode.com/xy-opensource/xy_frp.git) / [Github](https://github.com/xy-cross-tools/xy_frp.git) |
 | `xy_systemd` | Custom systemd tools |  [Gitee](https://gitee.com/xy-opensource/xy_systemd.git) / [GitCode](https://gitcode.com/xy-opensource/xy_systemd.git) / [Github](https://github.com/xy-cross-tools/xy_systemd.git) |
 
+---
 
 ### How to join
 Please send the application email to yuyangit.0515@qq.com
+
+---
 
 ### Donate
 If you find our open-source software helpful, please scan the QR code below to reward us with a cup of coffee.  
 
 ![Pay-Total](./images/Pay-Total.png)
+
+---
 
 ### Contact
 

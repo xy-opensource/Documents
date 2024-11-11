@@ -1,12 +1,11 @@
 
-- [简体中文](./README.md)
-- [繁體中文](./README.zh-hant.md)
-- [English](./README.en.md)
+- [简体中文](./README.md) ｜ [繁體中文](./README.zh-hant.md) ｜[English](./README.en.md)
 
 ### 組織介紹
 提供實用好用的開源軟體和工具，幫助大家提高效率。
 
 ### 項目分類
+---
 
 ##### 1. xy-base
 希洋開源基礎庫，包含一些基礎的類庫、工具類、配置文件等。
@@ -73,14 +72,19 @@
 | `xy_frp` | Frp工具 |  [Gitee](https://gitee.com/xy-opensource/xy_frp.git) / [GitCode](https://gitcode.com/xy-opensource/xy_frp.git) / [Github](https://github.com/xy-cross-tools/xy_frp.git) |
 | `xy_systemd` | 定製systemd工具 |  [Gitee](https://gitee.com/xy-opensource/xy_systemd.git) / [GitCode](https://gitcode.com/xy-opensource/xy_systemd.git) / [Github](https://github.com/xy-cross-tools/xy_systemd.git) |
 
+---
 
 ### 如何加入
 請發送申請郵件至 yuyangit.0515@qq.com
+
+---
 
 ### 捐助
 如果您覺得我們的開源軟件對你有所幫助，請掃下方二維碼打賞我們一杯咖啡。  
 
 ![Pay-Total](./images/Pay-Total.png)
+
+---
 
 ### 聯繫
 
