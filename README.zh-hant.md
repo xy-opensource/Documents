@@ -83,7 +83,7 @@
 ### 捐助
 如果您覺得我們的開源軟件對你有所幫助，請掃下方二維碼打賞我們一杯咖啡。  
 
-![Pay-Total](./images/Pay-Total.png)
+![pay-total](./images/pay-total.png)
 
 ---
 

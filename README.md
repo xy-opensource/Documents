@@ -81,7 +81,7 @@
 ### 捐助
 如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。  
 
-![Pay-Total](./images/Pay-Total.png)
+![pay-total](./images/pay-total.png)
 
 ---
 

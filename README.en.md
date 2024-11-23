@@ -80,7 +80,7 @@ Please send the application email to yuyangit.0515@qq.com
 ### Donate
 If you find our open-source software helpful, please scan the QR code below to reward us with a cup of coffee.  
 
-![Pay-Total](./images/Pay-Total.png)
+![pay-total](./images/pay-total.png)
 
 ---
 
